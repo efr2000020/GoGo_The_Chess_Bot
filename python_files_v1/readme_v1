@@ -3,3 +3,11 @@ updated vesrion of the program
 -fixed a few bugs
 -sperated and better organized the the three programs for chess board cropping
 
+
+To use this program first you have to download all athe files in one one folder then you have 3 options:
+
+1-open and run Thresholding_and_Contouring to crop the image using Thresholding and then find board using the largest contour
+
+2-open and run Canny_edge_and_Hough_Lines to crom the image using canny edge detector and Hough lines
+
+3- (recommended) for the best results use Shi_Tomasi_Corners to crop the image using modified Harris corner algorithm 
